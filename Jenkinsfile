@@ -1,4 +1,4 @@
-// The Jenkins Pipeline
+// The Jenkins Pipeline for Magento
 
 pipeline {
 	agent {
