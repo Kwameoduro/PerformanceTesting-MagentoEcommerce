@@ -1,4 +1,4 @@
-// The Jenkins Pipeline for Magento Ecommerce App
+// The Jenkins Pipeline for Magento Ecommerce
 
 pipeline {
 	agent {
